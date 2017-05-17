@@ -1,0 +1,4 @@
+LDR: http://blynk-cloud.com/1e300153262c41b99fb697cb39c17575/data/V2
+Umidade: http://blynk-cloud.com/1e300153262c41b99fb697cb39c17575/data/V3
+Temperatura: http://blynk-cloud.com/1e300153262c41b99fb697cb39c17575/data/V4
+Presença: http://blynk-cloud.com/1e300153262c41b99fb697cb39c17575/data/V5
